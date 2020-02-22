@@ -1,0 +1,19 @@
+{
+  "name": "mongo-fitness-tracker",
+  "version": "1.0.0",
+  "description": "Fitness tracker app utilizing mongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MHavrilak/Mongo-Fitness-Tracker.git"
+  },
+  "author": "Mike Havrilak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MHavrilak/Mongo-Fitness-Tracker/issues"
+  },
+  "homepage": "https://github.com/MHavrilak/Mongo-Fitness-Tracker#readme"
+}
